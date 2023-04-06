@@ -1,0 +1,60 @@
+/* html,body{
+    width: 50%;
+    margin:0;
+}
+.container{
+    width: 360px;
+}
+
+#input-field{
+    width: 300px;
+    height: 46px;
+    border-color: brown;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+#addtodo{
+    height: 50px;
+    width: 50px;
+    border: 1PX solid red;
+    vertical-align: middle;
+    font-size: 35px;
+}
+#to-do{
+    margin-top: 25px;
+}
+.paragraph-styling{
+    margin: 0px;
+    cursor:pointer;
+    font-size: 25px;
+} */
+ html,body{
+    width: 50%;
+    margin:0 auto;
+}
+.container{
+    width: 360px;
+}
+#input-field{
+    width: 300px;
+    height: 46px;
+    border-color: rgb(0, 0, 0);
+    font-size: 30px;
+    outline: none;
+    vertical-align: middle;
+}
+#addtodo{
+height: 50px;
+width: 50px;
+border: 1px solid rgb(0, 0, 0);
+vertical-align: middle;
+}
+.to-dos{
+    margin-top: 25px;
+}
+.paragraph-styling{
+    margin: 0px;
+    cursor: pointer;
+    font-size: 20px;
+}
